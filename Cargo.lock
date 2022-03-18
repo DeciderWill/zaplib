@@ -695,6 +695,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "example_flamegraph"
+version = "0.0.1"
+dependencies = [
+ "zaplib",
+ "zaplib_components",
+]
+
+[[package]]
 name = "example_lightning"
 version = "0.1.0"
 dependencies = [
